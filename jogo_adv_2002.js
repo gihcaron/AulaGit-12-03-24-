@@ -22,7 +22,6 @@ console.log("Você acertou!! e o numero correto é " + numeroPessoa);
 console.log("Numero de tentativas " + tentativas);
 
 console.log("Ignorar, alteração1");
-console.log("Ignorar, alteração2");
 
 
 
