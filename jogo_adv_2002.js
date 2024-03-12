@@ -24,5 +24,7 @@ console.log("Numero de tentativas " + tentativas);
 console.log("Ignorar, alteração1");
 console.log("Ignorar, alteração2");
 console.log("Ignorar, alteração3");
+console.log("Ignorar, alteração4");
+
 
 
