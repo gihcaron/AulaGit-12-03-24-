@@ -27,7 +27,6 @@ console.log ("Teste2");
 console.log ("Teste3");
 console.log ("Teste4");
 console.log ("Teste3");
-console.log ("Teste5");
 
 
 
